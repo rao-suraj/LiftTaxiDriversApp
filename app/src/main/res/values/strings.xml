@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lift Taxies Drivers</string>
+
+    <string name="continue_button">continue button</string>
+    <string name="register_bt">Register</string>
+    <string name="continue_bt">Continue</string>
+    <string name="first_name">first name</string>
+    <string name="last_name">Last name</string>
+    <string name="phone_number">phone number</string>
+    <string name="name">Name</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_emailid">Enter EmailId</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="register">Register</string>
+    <string name="register_txt">Register</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="click">Click</string>
+    <string name="signout">SignOut</string>
+</resources>

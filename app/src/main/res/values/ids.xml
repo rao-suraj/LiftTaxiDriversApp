@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="verifyOTPBtn" type="id" />
+    <item name="resendTextView" type="id" />
+    <item name="guideline5" type="id" />
+    <item name="otpEditText1" type="id" />
+    <item name="guideline4" type="id" />
+    <item name="otpEditText2" type="id" />
+    <item name="otpEditText3" type="id" />
+    <item name="otpEditText4" type="id" />
+    <item name="otpEditText5" type="id" />
+    <item name="otpEditText6" type="id" />
+</resources>

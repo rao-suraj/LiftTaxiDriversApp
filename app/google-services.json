@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "21759130532",
+    "project_id": "lift-taxies-drivers-app",
+    "storage_bucket": "lift-taxies-drivers-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21759130532:android:fa217d742356a5e3c0df31",
+        "android_client_info": {
+          "package_name": "com.example.lifttaxiesdrivers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21759130532-7p216b9f2394jmoc58ja32npqdqngong.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lifttaxiesdrivers",
+            "certificate_hash": "bf92805a27ccacb0aff58912557174bc2c557c51"
+          }
+        },
+        {
+          "client_id": "21759130532-trle9sgdj4rrdgleu3h2u31d0ep7ckj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkYTzcolfZ5J2bMTzlSuvqIsR4lrm9TxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21759130532-trle9sgdj4rrdgleu3h2u31d0ep7ckj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
